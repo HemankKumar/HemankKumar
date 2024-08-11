@@ -13,6 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,css,express,git,github,html,java,js,mongodb,mysql,nodejs,npm,postman,react,tailwind,vite,vscode,webpack,yarn&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemankkumar&show_icons=true&locale=en&layout=compact" alt="hemankkumar" /></p>
 
